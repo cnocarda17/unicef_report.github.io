@@ -313,4 +313,10 @@ scatter_plot <- ggplot(cleaned_data, aes(x = `GDP per capita (constant 2015 US$)
 
 scatter_plot
 
+
+
 ```
+
+# Conclusion
+
+The maps, graphs, and charts used in this report's visual analysis of the global GDP provide detailed insights into growth trends, demographic impacts, and economic inequities. It promotes a better knowledge of the state of the world economy and development trends by highlighting the intricate interactions between geography, population, and economic policy.
